@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\com.android.support-support-v4-24.1.1_635de8ffb320565d8c9d72113bcda795884af8ab.jar" />
+    </item>
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\com.android.support-support-vector-drawable-24.1.1_8971fa045a4074a86948978444ab66b205fd34af.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\rxjava-1.1.5_01dd6043249e0d3ed0a1e212796476631b0c3354.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\gson-2.7_9dc887f80dda0a633539cbc1067d6b95dc0d4860.jar" />
+    </item>
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\internal_impl-24.1.1_cffbe79170c41634ef54323f5554feb3636a9979.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\converter-gson-2.1.0_17b61081687dff8386881e0632eb2956fe923fff.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\okhttp-3.3.0_ed4d32243cfe1bb1dfb01794fbdee9316f5f03eb.jar" />
+    </item>
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\com.android.support-appcompat-v7-24.1.1_cd01a53ed03d27621965b843a4637f1390db92f0.jar" />
+    </item>
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\com.android.support-animated-vector-drawable-24.1.1_87590be2ea1f25bf30b2395f00aff228355adb90.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\retrofit-2.1.0_ae0d7b82490fe4199034f2a5fa230294e182e44d.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\okio-1.8.0_ea418e62177151151bbea0afb89ae5cc83b5dfc1.jar" />
+    </item>
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\io.reactivex-rxandroid-1.2.0_6244d00e9558bac215d79c71571d2ebcf4c13826.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\support-annotations-24.1.1_fcbe201890637aeb74f786733b577a6b7942871f.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\butterknife-annotations-8.4.0_84ce0df66c0c632ec57a87b8b80c7174ccdf0e14.jar" />
+    </item>
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\com.jakewharton-butterknife-8.4.0_d01562e1e715a128dcf63fecc5bb94f436aa2dab.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\javax.inject-1_abba7636061fefba2c904af5793450e5f3df8ac1.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0.2\de8416eda7b2fd7c25836b140c39e1cbf10542f6\dagger-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de8416eda7b2fd7c25836b140c39e1cbf10542f6">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\dagger-2.0.2_d500384ac9d5e345c7b7fa8d4d4862768a9892f6.jar" />
+    </item>
+    <item
+        jar="E:\Java\Projects\RedditClient\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\com.android.support-recyclerview-v7-24.1.1_55ba23a19099f107236bb42f3406d3c7ec0f1c96.jar" />
+    </item>
+    <item
+        jar="C:\Users\st1ch\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="E:\Java\Projects\RedditClient\app\build\intermediates\pre-dexed\prod\debug\adapter-rxjava-2.0.2_c23643db07083ae68c1b3ee9606c1bfe03493a45.jar" />
+    </item>
+
+</items>
